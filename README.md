@@ -1,5 +1,5 @@
-- 👋 Hi, it's @remegius
-- 👀 still passionate in ...data science, networking and cyber security
+- 👋 Hi, it's @gus
+-passionate in ...data science, networking and cyber security
 - & holla.. not only interested...i bloody slack it up
 - 📫 How to reach me ...remyvader@outlook.com
 
